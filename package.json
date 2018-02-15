@@ -2,7 +2,7 @@
   "name": "angular-test",
   "version": "0.0.0",
   "dependencies": {
-    "grunt-karma": "~0.4.5"
+    "grunt-karma": "~0.5.1"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
