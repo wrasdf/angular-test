@@ -2,7 +2,7 @@
   "name": "angular-test",
   "version": "0.0.0",
   "dependencies": {
-    "grunt-karma": "~0.4.5"
+    "grunt-karma": "~0.5.1"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -21,7 +21,7 @@
     "grunt-usemin": "~0.1.11",
     "grunt-svgmin": "~0.2.0",
     "grunt-rev": "~0.1.0",
-    "grunt-karma": "~0.4.3",
+    "grunt-karma": "~0.5.1",
     "grunt-open": "~0.2.0",
     "grunt-concurrent": "~0.3.0",
     "matchdep": "~0.1.2",
